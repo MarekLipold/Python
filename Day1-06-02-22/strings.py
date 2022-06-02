@@ -1,1 +1,2 @@
 # Strings
+# Learning python strings
